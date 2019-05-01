@@ -16,3 +16,6 @@ Here we completed jenkins setup.
 
 #Jenskins setup part 2
 Here we completed jenkins setup part 2.
+
+#Jenskins setup part 3
+Here we completed jenkins setup part 3.
